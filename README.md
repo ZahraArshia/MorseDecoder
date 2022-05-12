@@ -1,5 +1,7 @@
 # morse decoder
 
+
+![image](screenshot.png)
 ## Getting Started
 
 
