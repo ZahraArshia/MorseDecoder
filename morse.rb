@@ -31,8 +31,8 @@ def char_list(char)
 end
 
 def decode_word(word)
-  words = word.split()
-  words.map { |letter| char_list(letter) }.join()
+  words = word.split
+  words.map { |letter| char_list(letter) }.join
 end
 
 def decode_sentense(sentense)
